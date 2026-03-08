@@ -5,7 +5,7 @@
 
 - 🌱 Ce que j'apprends en ce moment **Symfony (PHP)**
 
-- 👨‍💻 Portfolio [Mes projets sont listés ici, sur mon profil GitHub.](Mes projets sont listés ici, sur mon profil GitHub.)
+- 👨‍💻 Portfolio [Mes projets sont listés ici, sur mon profil GitHub.]
 
 - 💬 Comment me joindre **Via LinkedIn(https://www.linkedin.com/in/almokashfi-ali-hamed-kabbashi-10883a263/) ou par Email : [mokashfikabashi@gmail.com**
 
