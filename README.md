@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, je suis Almo</h1>
 <h3 align="center">HTML5&CSS • Javascript • Java • PHP • Node.js • Symfony • Spring Boot</h3>
 
-- 🔭Étudiant intensif en DWWM **Jeu de Memory**
+- 🔭Étudiant intensif en DWWM 
 
 - 🌱 Ce que j'apprends en ce moment **Symfony (PHP)**
 
