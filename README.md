@@ -9,7 +9,6 @@
 
 - 💬 Comment me joindre **Via LinkedIn(https://www.linkedin.com/in/almokashfi-ali-hamed-kabbashi-10883a263/) ou par Email : [mokashfikabashi@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
